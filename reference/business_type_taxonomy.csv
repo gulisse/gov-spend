@@ -1,0 +1,86 @@
+﻿id,business_type,business_subtype
+BT_001,Education,Primary school
+BT_002,Education,Secondary school
+BT_003,Education,All-through / academy
+BT_004,Education,Special educational needs (SEN)
+BT_005,Education,Nursery & early years
+BT_006,Education,Further education / college
+BT_007,Education,Higher education / university
+BT_008,Education,Tuition & training
+BT_009,Education,Other Education
+BT_010,Healthcare,GP / health centre
+BT_011,Healthcare,Dental practice
+BT_012,Healthcare,Pharmacy
+BT_013,Healthcare,Hospital / NHS provider
+BT_014,Healthcare,Therapy & counselling
+BT_015,Healthcare,Healthcare agency
+BT_016,Healthcare,Other Healthcare
+BT_017,Social & Community Care,Care home / residential
+BT_018,Social & Community Care,Home care & supported living
+BT_019,Social & Community Care,Children's residential & fostering
+BT_020,Social & Community Care,Day care & community support
+BT_021,Social & Community Care,Other Social & Community Care
+BT_022,Passenger Transport,Taxi services
+BT_023,Passenger Transport,Bus & coach / public transport
+BT_024,Passenger Transport,Minibus & accessible transfers
+BT_025,Passenger Transport,Concessionary / subsidised travel
+BT_026,Passenger Transport,Vehicle repair & maintenance
+BT_027,Passenger Transport,Vehicle hire & leasing
+BT_028,Passenger Transport,Fuel
+BT_029,Passenger Transport,Vehicle recovery
+BT_030,Passenger Transport,Fleet management
+BT_031,Passenger Transport,Haulage & freight
+BT_032,Passenger Transport,Other Passenger Transport
+BT_033,"Construction, Repair & Maintenance",General construction & contracting
+BT_034,"Construction, Repair & Maintenance",Building trades
+BT_035,"Construction, Repair & Maintenance",Building materials & merchants
+BT_036,"Construction, Repair & Maintenance",Highways & civil engineering
+BT_037,"Construction, Repair & Maintenance",Architecture
+BT_038,"Construction, Repair & Maintenance",Engineering
+BT_039,"Construction, Repair & Maintenance","Other Construction, Repair & Maintenance"
+BT_040,Property & Facilities,Facilities management
+BT_041,Property & Facilities,Property & estate management / lettings
+BT_042,Property & Facilities,Cleaning & janitorial
+BT_043,Property & Facilities,Security
+BT_044,Property & Facilities,Grounds & landscaping
+BT_045,Property & Facilities,"Waste, recycling & environmental"
+BT_046,Property & Facilities,Other Property & Facilities
+BT_047,Housing & Accommodation,Housing association / registered provider
+BT_048,Housing & Accommodation,Housing management services
+BT_049,Housing & Accommodation,Temporary & emergency accommodation
+BT_050,Housing & Accommodation,Other Housing & Accommodation
+BT_051,ICT,Software licences
+BT_052,ICT,IT infrastructure & services
+BT_053,ICT,Telecoms
+BT_054,ICT,Other ICT
+BT_055,Professional & Business Services,Consultancy
+BT_056,Professional & Business Services,Legal
+BT_057,Professional & Business Services,Accountancy & audit
+BT_058,Professional & Business Services,Recruitment & staffing
+BT_059,Professional & Business Services,"Media, marketing & design"
+BT_060,Professional & Business Services,Printing & signage
+BT_061,Professional & Business Services,Interpreting & translation
+BT_062,Professional & Business Services,Advice & advocacy
+BT_063,Professional & Business Services,Other Professional & Business Services
+BT_064,Financial Services,Banking & finance
+BT_065,Financial Services,Insurance
+BT_066,Financial Services,Leasing & credit
+BT_067,Financial Services,Other Financial Services
+BT_068,Catering & Food,Catering services
+BT_069,Catering & Food,Food supplies
+BT_070,Catering & Food,Other Catering & Food
+BT_071,"Arts, Culture & Leisure",Arts & culture
+BT_072,"Arts, Culture & Leisure",Sport & leisure
+BT_073,"Arts, Culture & Leisure","Other Arts, Culture & Leisure"
+BT_074,Charity & Voluntary,Charity / voluntary
+BT_075,Charity & Voluntary,Religious organisation
+BT_076,Charity & Voluntary,Other Charity & Voluntary
+BT_077,Utilities & Energy,Energy & power
+BT_078,Utilities & Energy,Water & utilities
+BT_079,Utilities & Energy,Other Utilities & Energy
+BT_080,Goods & Supplies,Furniture & furnishings
+BT_081,Goods & Supplies,Stationery
+BT_082,Goods & Supplies,Clothing
+BT_083,Goods & Supplies,Domestic & general goods
+BT_084,Goods & Supplies,Other Goods & Supplies
+BT_085,Other / Unclassified,Other / unclassified

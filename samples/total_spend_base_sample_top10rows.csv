@@ -1,0 +1,10 @@
+﻿rq_id,department,expense_type,service_area,supplier_category,supplier_clean,txn_count,total_amount,min_amount,max_amount,avg_amount,median_amount
+RQ_1,,,,,Nan,23,856884429.4,26446344.11,50428557.49,37255844.76,35947298.34
+RQ_2,Uncontrollable Accounting Items,Central Share of NDR Income,,,Ministry Of Housing Communities & Local Government,25,372888435,13625429,17888507,14915537.4,14648184
+RQ_3,Environment & Community Services,Highway Services,Highways (Including London Permit Scheme),SUB-CONTRACTOR,JB Riney & Co Ltd,2409,336430734.4,-45752.01,644601.93,139655.76,130732.77
+RQ_4,Environment & Community Services,Waste Collection,Waste Services,VENDOR,Veolia ES Ltd,191,329858884.3,10005.96,2401523.6,1727009.87,1785569.14
+RQ_5,Uncontrollable Accounting Items,GLA Share of NDR Income,,,Greater London Authority,24,303657130.1,12014686,13812620,12652380.42,12277885
+RQ_6,Dedicated Schools Budget,Independent Units Within The Council,,VENDOR,Personal Information - Redacted,819,272081897.2,5648.05,1893221.79,332212.33,256135.48
+RQ_7,,COLLECTION FUND ADJUSTMENT ACCOUNT,,LOCAL AUTHORITY SERVICES,Greater London Authority,137,250875671.5,539679.05,6391754,1831209.28,539679.09
+RQ_8,Children's Services Directorate,AfCCoreContract,,,Achieving For Children,27,245186078.5,2852100,11538000,9080965.87,9407189.11
+RQ_9,Childrens Services,Fixed Childrens Services Contract Strategic,Childrens Services,LEGAL & PROFESSIONAL SERVICES,Achieving For Children,37,217726292.6,-856300,9392738.49,5884494.39,7208875

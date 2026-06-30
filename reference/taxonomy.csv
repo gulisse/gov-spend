@@ -1,0 +1,598 @@
+﻿ID,Level 1,Level 2 ,Level 3,Clarification information
+290000,Arts & Leisure Services,,,Products / services
+291000,Arts & Leisure Services,Events,,Products / services
+291100,Arts & Leisure Services,Museums & Art,,Services
+291120,Arts & Leisure Services,Organised Activities,,Adult & children services
+291200,Arts & Leisure Services,Outsourced Service,,Services
+291300,Arts & Leisure Services,Performing Arts,,Services
+291110,Arts & Leisure Services,Professional Musical Instruments,,Products & maintenance
+291400,Arts & Leisure Services,Sport & Fitness,,Services
+299999,Arts & Leisure Services,Not Elsewhere Classified,,Products / services
+100000,Building Construction Materials,,,Products or supply & fit
+101000,Building Construction Materials,Bathrooms,,Products or supply & fit
+101100,Building Construction Materials,Electrical,,Products or supply & fit
+101200,Building Construction Materials,Fencing,,Products or supply & fit
+101300,Building Construction Materials,Floor Coverings,,Products or supply & fit
+101400,Building Construction Materials,General Materials,,Products or supply & fit
+101500,Building Construction Materials,Glazing / Doors,,Products or supply & fit
+101600,Building Construction Materials,Hand Tools,,"Products, includes power tools"
+101610,Building Construction Materials,Hand Tools,Direct Purchase,"Products, includes power tools"
+101611,Building Construction Materials,Hand Tools,Hire,"Products, includes power tools"
+101699,Building Construction Materials,Hand Tools,Not Elsewhere Classified,"Products, includes power tools"
+101700,Building Construction Materials,Heating & Air Conditioning,,Products or supply & fit
+102600,Building Construction Materials,Insulation,,Products or supply & fit
+101800,Building Construction Materials,Kitchens,,Products or supply & fit
+101900,Building Construction Materials,Lighting,,Products or supply & fit
+102000,Building Construction Materials,Machine Tools,,Products
+102100,Building Construction Materials,Paint & Finishing,,Products or supply & fit
+102200,Building Construction Materials,Plumbing,,Products or supply & fit
+102300,Building Construction Materials,Roofing,,Products or supply & fit
+102400,Building Construction Materials,Signage,,Products or supply & fit
+102500,Building Construction Materials,Timber,,Products or supply & fit
+109999,Building Construction Materials,Not Elsewhere Classified,,Products or supply & fit
+110000,Catering,,,Products / services
+111000,Catering,Banquet & Catering,,Products
+111310,Catering,Corporate Services,,"Service, includes council run cafes, etc."
+111100,Catering,Equipment & Utensils,,Products or supply & fit
+111120,Catering,Equipment & Utensils,Disposables,Products
+111110,Catering,Equipment & Utensils,Repair & Maintenance,Services
+111199,Catering,Equipment & Utensils,Not Elsewhere Classified,Products
+111200,Catering,Food & Beverages,,Products
+111210,Catering,Food & Beverages,School Milk,Products
+111299,Catering,Food & Beverages,Not Elsewhere Classified,Products
+111220,Catering,School Meals Service,,Services
+111230,Catering,Social Care,,Products / services
+111240,Catering,Social Care,Home Shopping Service,Products / services
+111250,Catering,Social Care,Meals On Wheels,Services
+111599,Catering,Social Care,Not Elsewhere Classified,Products / services
+111311,Catering,Takeaway Service,,Services
+111400,Catering,Vending Machines & Dispensers,,Products or supply & fit
+119999,Catering,Not Elsewhere Classified,,Products / services
+120000,Cemetery & Crematorium,,,Products / services
+121300,Cemetery & Crematorium,Body Transport Service,,Services
+121000,Cemetery & Crematorium,Burial & Cremation,,Services
+121100,Cemetery & Crematorium,Equipment,,Products or supply & fit
+121200,Cemetery & Crematorium,Repair & Maintenance,,Services
+129999,Cemetery & Crematorium,Not Elsewhere Classified,,Products / services
+130000,Cleaning & Janitorial,,,Products / services
+131000,Cleaning & Janitorial,Cleaning Materials,,Products
+131010,Cleaning & Janitorial,Cleaning Materials,Chemical,"Products, includes soap, sprays, polish, disinfectant, etc."
+131011,Cleaning & Janitorial,Cleaning Materials,Janitorial,"Products, include mops, buckets, brushes, etc."
+131099,Cleaning & Janitorial,Cleaning Materials,Not Elsewhere Classified,Products
+131310,Cleaning & Janitorial,Cleaning Service,,Services
+131320,Cleaning & Janitorial,Cleaning Service,External,"Service, including window cleaning"
+131330,Cleaning & Janitorial,Cleaning Service,Internal,Services
+131340,Cleaning & Janitorial,Cleaning Service,Specialist,"Service, includes deep clean, etc."
+131399,Cleaning & Janitorial,Cleaning Service,Not Elsewhere Classified,Services
+131100,Cleaning & Janitorial,Laundry Equipment,,Products or supply & fit
+131200,Cleaning & Janitorial,Laundry Equipment Repair & Maintenance,,Services
+131311,Cleaning & Janitorial,Laundry Service,,Services
+131312,Cleaning & Janitorial,Washroom Sanitation Service,,Services
+139999,Cleaning & Janitorial,Not Elsewhere Classified,,Products / services
+140000,Clothing,,,Products
+141000,Clothing,Childrens & Adults,,Products
+141200,Clothing,Footwear,,"Products, includes safety footwear"
+141100,Clothing,Protective,,"Products, includes personal protective equipment"
+141400,Clothing,Protective,Body Armour,Products
+141110,Clothing,Protective,Coveralls & Suits,Boiler suits etc.
+141111,Clothing,Protective,Disposable Clothing,Products
+141199,Clothing,Protective,Not Elsewhere Classified,Products
+141300,Clothing,Uniforms,,Products
+141310,Clothing,Uniforms,"Dresses, Skirts & Trousers",Including shorts
+141311,Clothing,Uniforms,Fleeces & Jumpers,"Including cardigans, hooded tops etc."
+141312,Clothing,Uniforms,Footwear,"Products, includes safety footwear"
+141313,Clothing,Uniforms,Outerwear,"Jackets, coats, waterproof clothing etc."
+141314,Clothing,Uniforms,Shirts,Including blouses & t-shirts
+141499,Clothing,Uniforms,Not Elsewhere Classified,Products
+149999,Clothing,Not Elsewhere Classified,,Products
+150000,Consultancy,,,Services
+151000,Consultancy,Business,,Services
+151200,Consultancy,Efficiency,,"Services, not Management"
+151900,Consultancy,Management,,Services
+151910,Consultancy,Management,Efficiency,Services
+151911,Consultancy,Management,Organisation & Planning,Services
+151912,Consultancy,Management,Personnel,Services
+151999,Consultancy,Management,Not Elsewhere Classified,Services
+152000,Consultancy,Procurement,,Services
+152050,Consultancy,Property,,Services
+152100,Consultancy,Strategic Planning,,Services
+152200,Consultancy,Technical & Feasibility,,Services
+159999,Consultancy,Not Elsewhere Classified,,Services
+160000,Domestic Goods,,,Products
+161000,Domestic Goods,Commercial,,"Products, includes white goods"
+161100,Domestic Goods,Industrial,,Products
+169999,Domestic Goods,Not Elsewhere Classified,,Products
+170000,Education,,,Products / services
+171010,Education,Adult & Further Education Services,,Services
+171110,Education,Arts & Crafts,,Products
+171111,Education,Audio Visual,,"Products / services, all media except literature"
+171040,Education,Educational Placements,,Services
+171012,Education,Examinational Fees,,Services
+171117,Education,Games & Toys,,Products
+171113,Education,Library Books,,Products
+171060,Education,Library Services,,Services
+171114,Education,Literature,,"Products, includes all other written media"
+171116,Education,School Books,,Products
+171115,Education,School Musical Instruments,,Products & maintenance
+171011,Education,School Services,,Services
+171020,Education,Statutory Education Services,,Services
+171030,Education,Statutory Education Services,Curriculum,Services
+171050,Education,Statutory Education Services,Non-curriculum,Services
+171099,Education,Statutory Education Services,Not Elsewhere Classified,Services
+171100,Education,Supplies,,Products
+179999,Education,Not Elsewhere Classified,,Products / services
+180000,Environmental Services,,,Products / services
+180010,Environmental Services,Animal Services,,Services
+180020,Environmental Services,Animal Services,Kennel Services,Services
+180030,Environmental Services,Animal Services,Licensing Services,Services
+181500,Environmental Services,Animal Services,Pest & Animal Control,Services
+180040,Environmental Services,Animal Services,Veterinary Services,"Services, not working animals"
+180099,Environmental Services,Animal Services,Not Elsewhere Classified,Services
+181100,Environmental Services,Forensic & Laboratory,,Services
+181200,Environmental Services,Graffiti Removal,,Services
+181300,Environmental Services,Land Protection,,Services
+181400,Environmental Services,Monitoring,,Services
+181600,Environmental Services,Street Cleansing,,Services
+181620,Environmental Services,Street Cleansing,Gully Cleansing,Services
+181610,Environmental Services,Street Cleansing,Sweeping,Services
+181699,Environmental Services,Street Cleansing,Not Elsewhere Classified,Services
+181700,Environmental Services,Street Lighting,,Services
+181710,Environmental Services,Street Lighting,Testing & Inspection,Services
+181799,Environmental Services,Street Lighting,Not Elsewhere Classified,Services
+181800,Environmental Services,Technical Equipment,,Products / services
+181810,Environmental Services,Technical Equipment,Laboratory,Products / services
+181811,Environmental Services,Technical Equipment,Measuring,Products / services
+181812,Environmental Services,Technical Equipment,Testing,Products / services
+181899,Environmental Services,Technical Equipment,Not Elsewhere Classified,Products / services
+181900,Environmental Services,Testing & Inspection,,Services
+181910,Environmental Services,Testing & Inspection,Geotechnical / Geochemical Surveys,Services
+181911,Environmental Services,Testing & Inspection,Archaeological Surveys,Services
+181999,Environmental Services,Testing & Inspection,Not Elsewhere Classified,Services
+182000,Environmental Services,Waste Management,,Products / services
+182010,Environmental Services,Waste Management,Abandoned Vehicles,Removal services
+182011,Environmental Services,Waste Management,Consumables,"Products, includes bags, etc."
+182012,Environmental Services,Waste Management,Recycling,Services
+182020,Environmental Services,Waste Management,Toxic & Hazardous Waste,Services
+182013,Environmental Services,Waste Management,Waste Collection,Services
+182014,Environmental Services,Waste Management,Waste Collection for Recycling,"Services, includes Waste Electrical & Electronic Equipment (WEEE) Directive, plus confidential waste"
+182015,Environmental Services,Waste Management,Waste Disposal,Services
+182099,Environmental Services,Waste Management,Not Elsewhere Classified,Products / services
+182030,Environmental Services,Water Assessment & Treatment,,Products / services
+182100,Environmental Services,Weather Forecasts,,Services
+189999,Environmental Services,Not Elsewhere Classified,,Products / services
+190000,Facilities & Management Services,,,Products / services
+191000,Facilities & Management Services,Advertising,,Products / services
+191010,Facilities & Management Services,Advertising,Promotional & Recruitment,Services
+191011,Facilities & Management Services,Advertising,Statutory,Services
+191099,Facilities & Management Services,Advertising,Not Elsewhere Classified,"Products / services, including promotional items"
+191100,Facilities & Management Services,Creative Services,,"Services including design, photography, animation & video production, copywriting etc."
+191200,Facilities & Management Services,Document Archiving & Storage,,Services
+191300,Facilities & Management Services,Energy Efficiency,,Services
+191400,Facilities & Management Services,Lifts,,Products / services
+191410,Facilities & Management Services,Lifts,New Installation,Products or supply & fit
+191411,Facilities & Management Services,Lifts,Repair & Maintenance,Services
+191499,Facilities & Management Services,Lifts,Not Elsewhere Classified,Products or supply & fit / service
+191500,Facilities & Management Services,Market Research,,Services
+192400,Facilities & Management Services,Marketing,,Services
+191510,Facilities & Management Services,Portable Building Hire,,"Services, includes toilets"
+191600,Facilities & Management Services,Printing,,Services
+191700,Facilities & Management Services,Property Management,,Services
+191800,Facilities & Management Services,Public Relations & Image,,Services
+192500,Facilities & Management Services,Publishing Services,,
+192510,Facilities & Management Services,Publishing Services,Editorial,Editorial services for publications
+192520,Facilities & Management Services,Publishing Services,Operational,"Publication of journals, magazines, promotional literature etc.  Not including printing services."
+192599,Facilities & Management Services,Publishing Services,Not Elsewhere Classified,Services
+191900,Facilities & Management Services,Removals,,"Services, includes home & office"
+192000,Facilities & Management Services,Reprographics,,Services
+192100,Facilities & Management Services,Retail,,Services
+192110,Facilities & Management Services,Room Hire,,Services
+192200,Facilities & Management Services,Security,,Products / services
+192210,Facilities & Management Services,Security,Access Control,Services
+192211,Facilities & Management Services,Security,Closed-Circuit Television,"Building security products, supply & fit or service"
+192212,Facilities & Management Services,Security,Equipment,"Products, includes alarms"
+192213,Facilities & Management Services,Security,Manned Guarding,Services
+192214,Facilities & Management Services,Security,Street Wardens,Services
+192299,Facilities & Management Services,Security,Not Elsewhere Classified,Products / services
+192300,Facilities & Management Services,Storage,,Services
+199999,Facilities & Management Services,Not Elsewhere Classified,,Products / services
+200000,Financial Services,,,Services
+201000,Financial Services,Accountancy,,Services
+201100,Financial Services,Audit,,Services
+201200,Financial Services,Banking,,Services
+201300,Financial Services,Cash Collection,,Services
+201400,Financial Services,Council Tax & Business Rates,,Services
+201450,Financial Services,Credit Services,,Services
+201510,Financial Services,Credit Services,Agencies,Services
+201512,Financial Services,Credit Services,Asset Finance,Services
+201500,Financial Services,Credit Services,Cards,Services
+201511,Financial Services,Credit Services,Invoice Discounting / Factoring,Services
+201599,Financial Services,Credit Services,Not Elsewhere Classified,Services
+201600,Financial Services,Debt Collection & Recovery,,Services
+201700,Financial Services,Grants,,Services
+201710,Financial Services,Grants,Charitable,Services
+201711,Financial Services,Grants,Non-charitable,Services
+201799,Financial Services,Grants,Not Elsewhere Classified,Services
+201800,Financial Services,Insurance,,Services
+201820,Financial Services,Insurance,Property,Services
+201821,Financial Services,Insurance,Transport,Services
+201899,Financial Services,Insurance,Not Elsewhere Classified,Services
+201801,Financial Services,Investments,,Services
+202100,Financial Services,Memberships & Subscriptions,,Professional bodies & associations / publications
+201810,Financial Services,Pension Funds & Services,,"Services, including regulatory"
+201830,Financial Services,Periodicals,,"Products, magazines & journals etc."
+201900,Financial Services,Refund,,Services
+202000,Financial Services,Rents,,Services
+209999,Financial Services,Not Elsewhere Classified,,Services
+210000,Furniture & Soft Furnishings,,,Products
+211000,Furniture & Soft Furnishings,Commercial Furniture,,Products or supply & fit
+211100,Furniture & Soft Furnishings,Domestic Furniture,,Products or supply & fit
+171112,Furniture & Soft Furnishings,Educational Furniture,,Products
+211200,Furniture & Soft Furnishings,Office Furniture,,Products
+211210,Furniture & Soft Furnishings,Soft Furnishings,,Products or supply & fit
+219999,Furniture & Soft Furnishings,Not Elsewhere Classified,,Products
+220000,Health & Safety,,,Products / services
+221000,Health & Safety,Products,,"Products or supply & fit, includes smoke alarms & fire extinguishers"
+221100,Health & Safety,Repair & Maintenance,,"Services, includes smoke alarms & fire extinguishers"
+221300,Health & Safety,Services,,Services
+229999,Health & Safety,Not Elsewhere Classified,,Products / services
+310000,Healthcare,,,Products / services
+310100,Healthcare,Agency,,Services
+311000,Healthcare,Consumables,,Products
+311100,Healthcare,Counselling,,Services
+311200,Healthcare,Drugs & Pharmacy Services,,Products / services
+311300,Healthcare,Equipment,,Products or supply & fit
+311400,Healthcare,Fees,,Services
+311410,Healthcare,Occupational Therapy Services,,Services
+311500,Healthcare,Operations,,Services
+151510,Healthcare,Public Health,,Services
+151513,Healthcare,Public Health,GP Surgery Services,Services
+151514,Healthcare,Public Health,Specialist Services,Services
+151515,Healthcare,Public Health,Not Elsewhere Classified,Services
+311600,Healthcare,Services,,Services
+151511,Healthcare,Social Policy,,Services
+319999,Healthcare,Not Elsewhere Classified,,Products / services
+230000,Highway Equipment & Materials,,,Products
+231000,Highway Equipment & Materials,Aggregates,,Products
+231100,Highway Equipment & Materials,Bituminous Materials & Surface Dressings,,Products
+231200,Highway Equipment & Materials,Concrete,,Products
+231210,Highway Equipment & Materials,Drainage,,Products
+231220,Highway Equipment & Materials,Guard Rails & Safety Fencing,,Products
+231300,Highway Equipment & Materials,Health & Safety,,Products
+231500,Highway Equipment & Materials,Paving & Kerbstones,,Products
+351300,Highway Equipment & Materials,Rock Salt / Grit,,Products
+231600,Highway Equipment & Materials,Signage,,Products
+231700,Highway Equipment & Materials,Street Furniture & Ironworks,,"Products, includes benches, bins, etc."
+231400,Highway Equipment & Materials,Street Lighting,,Products
+239999,Highway Equipment & Materials,Not Elsewhere Classified,,Products
+240000,Horticultural,,,"Products / services, includes agriculture"
+241000,Horticultural,Chemicals,,Products
+241100,Horticultural,Seeds & Plants,,Products
+241300,Horticultural,Soils & Dressing,,Products
+241400,Horticultural,Stones & Rocks,,Products
+241500,Horticultural,Tools & Equipment,,Products / services
+241511,Horticultural,Tools & Equipment,Hire,Services
+241510,Horticultural,Tools & Equipment,Purchase,Products
+241599,Horticultural,Tools & Equipment,Not Elsewhere Classified,Products
+241210,Horticultural,Tree Surgery / Trimming,,Services
+241600,Horticultural,Trees & Shrubs,,Products
+241211,Horticultural,Verges,,Services
+241212,Horticultural,Weed Control,,Services
+249999,Horticultural,Not Elsewhere Classified,,Products / services
+250000,Housing Management,,,Services
+151710,Housing Management,Arms Length Management Organisations,,Services
+250005,Housing Management,Housing Association Services,,Services
+250010,Housing Management,Letting / Estate Agents,,Services
+151711,Housing Management,Stock Management,,Services
+251100,Housing Management,Tenants Associations,,Services
+259999,Housing Management,Not Elsewhere Classified,,Services
+260000,Human Resources,,,Services
+261000,Human Resources,Accommodation,,Services
+261100,Human Resources,Interpretation & Translation,,Services
+261200,Human Resources,Professional & Advisory Services,,Services
+261300,Human Resources,Recruitment & Assessment,,Services
+261400,Human Resources,Temporary & Agency Staff,,Services
+261410,Human Resources,Temporary & Agency Staff,Accountancy,Services
+261411,Human Resources,Temporary & Agency Staff,Administration & Clerical,Services
+261412,Human Resources,Temporary & Agency Staff,Industrial Operatives,Services
+261413,Human Resources,Temporary & Agency Staff,Professional,"Services, includes surveyors, planners, etc."
+261416,Human Resources,Temporary & Agency Staff,Salaries,Services
+261414,Human Resources,Temporary & Agency Staff,Social & Community Care,Services
+261415,Human Resources,Temporary & Agency Staff,Supply Teachers,Services
+261499,Human Resources,Temporary & Agency Staff,Not Elsewhere Classified,Services
+261500,Human Resources,Training & Conferences,,Services
+261510,Human Resources,Training & Conferences,Conferences,Services
+261520,Human Resources,Training & Conferences,Training,Services
+261599,Human Resources,Training & Conferences,Not Elsewhere Classified,Services
+261600,Human Resources,Travel & Subsistence,,Services
+261610,Human Resources,Travel & Subsistence,Air Travel,Services
+261620,Human Resources,Travel & Subsistence,Rail Travel,Services
+361511,Human Resources,Travel & Subsistence,Taxi Fares,"Services, staff only"
+261699,Human Resources,Travel & Subsistence,Not Elsewhere Classified,Services
+269999,Human Resources,Not Elsewhere Classified,,Services
+270000,Information Communication Technology,,,Products / services
+271000,Information Communication Technology,Call Systems,,Products
+271100,Information Communication Technology,Consumables,,Products
+271200,Information Communication Technology,Hardware,,Products
+271210,Information Communication Technology,Leasing,,Services
+271300,Information Communication Technology,Maintenance & Support,,Services
+271310,Information Communication Technology,Maintenance & Support,Hardware,Services
+271320,Information Communication Technology,Maintenance & Support,Network,Services
+271330,Information Communication Technology,Maintenance & Support,Software,Services
+271399,Information Communication Technology,Maintenance & Support,Not Elsewhere Classified,Services
+271400,Information Communication Technology,Office & Reprographics Equipment,,Products
+271501,Information Communication Technology,Services,,Services
+271510,Information Communication Technology,Services,Application Service Provision / Software as a Service (SaaS),Services
+271516,Information Communication Technology,Services,Cloud Services,Services
+261517,Information Communication Technology,Services,Consultancy,Services
+271518,Information Communication Technology,Services,Digital / Online Publishing,"Services, creation of online resources such as databases, digital journals etc."
+271513,Information Communication Technology,Services,Disaster Recovery,Services
+271514,Information Communication Technology,Services,Disposal of Storage Media,Services
+271517,Information Communication Technology,Services,Internet Service Provision,Services
+271420,Information Communication Technology,Services,Online Services,Services
+151812,Information Communication Technology,Services,Project Management,Services
+271515,Information Communication Technology,Services,Website Development,Services
+271599,Information Communication Technology,Services,Not Elsewhere Classified,Services
+271440,Information Communication Technology,Software,,Products
+271430,Information Communication Technology,Software,Commercial Off-The-Shelf,Products
+271600,Information Communication Technology,Software,Customised & Bespoke,Products
+272000,Information Communication Technology,Software,Mobile App Development,Services
+271499,Information Communication Technology,Software,Not Elsewhere Classified,Products / services
+271699,Information Communication Technology,Telecommunications,,Products / services
+271900,Information Communication Technology,Telecommunications,Airwave,Products / services
+271700,Information Communication Technology,Telecommunications,Fixed,Products / services
+271800,Information Communication Technology,Telecommunications,Mobile,Products / services
+271799,Information Communication Technology,Telecommunications,Not Elsewhere Classified,Products / services
+279999,Information Communication Technology,Not Elsewhere Classified,,Products / services
+280000,Legal Services,,,Services
+281000,Legal Services,Advocacy,,Services
+281100,Legal Services,Election Services,,Services
+281200,Legal Services,General Support,,"Services, includes conveyancing, etc."
+281300,Legal Services,Legal Opinion,,Services
+281500,Legal Services,Licensing / Accreditation,,"Services, includes Television Licensing, PRS / PPL etc."
+281400,Legal Services,Specialist Support,,"Services, includes Private Finance Initiative & Public Private Partnerships"
+289999,Legal Services,Not Elsewhere Classified,,Services
+300000,Mail Services,,,Products / services
+301000,Mail Services,Couriers,,Services
+301100,Mail Services,Freight,,Services
+301200,Mail Services,Postage,,Products
+309999,Mail Services,Not Elsewhere Classified,,Products / services
+360000,Passenger Transport,,,"Services, passenger vehicles"
+361800,Passenger Transport,Bus & Coach Services,,"Services, passenger vehicles"
+361810,Passenger Transport,Bus & Coach Services,Adult Social Care,"Services, passenger vehicles"
+361811,Passenger Transport,Bus & Coach Services,Children Social Care,"Services, passenger vehicles"
+361812,Passenger Transport,Bus & Coach Services,Home to School / College,"Services, passenger vehicles"
+361813,Passenger Transport,Bus & Coach Services,Home to School / College - Special Educational Needs,"Services, passenger vehicles"
+361814,Passenger Transport,Bus & Coach Services,Local Bus Services,"Services, passenger vehicles"
+361899,Passenger Transport,Bus & Coach Services,Not Elsewhere Classified,"Services, passenger vehicles"
+361700,Passenger Transport,Concessionary Fares & Subsidized Travel,,"Services, passenger vehicles"
+361000,Passenger Transport,Fleet Management,,"Services, passenger vehicles"
+361100,Passenger Transport,Haulage,,"Services, passenger vehicles"
+361900,Passenger Transport,Minibus Services,,"Services, passenger vehicles"
+361910,Passenger Transport,Minibus Services,Adult Social Care,"Services, passenger vehicles"
+361911,Passenger Transport,Minibus Services,Children Social Care,"Services, passenger vehicles"
+361912,Passenger Transport,Minibus Services,Home to School / College,"Services, passenger vehicles"
+361913,Passenger Transport,Minibus Services,Home to School / College - Special Educational Needs,"Services, passenger vehicles"
+361999,Passenger Transport,Minibus Services,Not Elsewhere Classified,"Services, passenger vehicles"
+361200,Passenger Transport,Repair & Maintenance,,"Services, passenger vehicles"
+361450,Passenger Transport,Taxi Services,,"Services, passenger vehicles"
+361410,Passenger Transport,Taxi Services,Adult Social Care,"Services, passenger vehicles"
+361411,Passenger Transport,Taxi Services,Children Social Care,"Services, passenger vehicles"
+361412,Passenger Transport,Taxi Services,Home to School / College,"Services, passenger vehicles"
+361413,Passenger Transport,Taxi Services,Home to School / College - Special Educational Needs,"Services, passenger vehicles"
+361510,Passenger Transport,Taxi Services,Non Staff,"Services, passenger vehicles"
+361414,Passenger Transport,Taxi Services,Staff,"Services, passenger vehicles"
+361499,Passenger Transport,Taxi Services,Not Elsewhere Classified,"Services, passenger vehicles"
+369999,Passenger Transport,Not Elsewhere Classified,,"Services, passenger vehicles"
+321000,Social Community Care Supplies & Services - Adult,,,Services
+321010,Social Community Care Supplies & Services - Adult,"Advice, Advocacy & Counselling Services",,Services
+321020,Social Community Care Supplies & Services - Adult,Alcohol & Drug Rehabilitation,,Services
+321011,Social Community Care Supplies & Services - Adult,Asylum Seekers Services,,Services
+321012,Social Community Care Supplies & Services - Adult,Black & Minority Ethnic Services,,Services
+321013,Social Community Care Supplies & Services - Adult,Day Care,,Services
+321500,Social Community Care Supplies & Services - Adult,Direct Payment,,Services
+321014,Social Community Care Supplies & Services - Adult,Domiciliary Care,,Services
+321600,Social Community Care Supplies & Services - Adult,Domiciliary Care,Reablement,Services
+321699,Social Community Care Supplies & Services - Adult,Domiciliary Care,Not Elsewhere Classified,Services
+321700,Social Community Care Supplies & Services - Adult,Floating Support,,"Services, support tied to individual rather than location"
+321021,Social Community Care Supplies & Services - Adult,Homeless Support,,Services
+321800,Social Community Care Supplies & Services - Adult,Independent Supported Living,,Services
+321810,Social Community Care Supplies & Services - Adult,Independent Supported Living,Extra Care,Services
+321899,Social Community Care Supplies & Services - Adult,Independent Supported Living,Not Elsewhere Classified,Services
+322001,Social Community Care Supplies & Services - Adult,Mental Health Services,,Services
+321017,Social Community Care Supplies & Services - Adult,Nursing & Residential Care Homes,,Services
+321900,Social Community Care Supplies & Services - Adult,Respite,,Services
+321910,Social Community Care Supplies & Services - Adult,Respite,Residential,Services
+321920,Social Community Care Supplies & Services - Adult,Respite,Short break,Services
+321930,Social Community Care Supplies & Services - Adult,Respite,Community,Services
+321999,Social Community Care Supplies & Services - Adult,Respite,Not Elsewhere Classified,Services
+322100,Social Community Care Supplies & Services - Adult,Services for Carers,,Services
+322110,Social Community Care Supplies & Services - Adult,Services for Carers,Carer Sitting Services,Services
+322120,Social Community Care Supplies & Services - Adult,Services for Carers,Carers breaks,Services
+322199,Social Community Care Supplies & Services - Adult,Services for Carers,Not Elsewhere Classified,Services
+322200,Social Community Care Supplies & Services - Adult,Shared Lives,,"Services, 'adult fostering'"
+321015,Social Community Care Supplies & Services - Adult,Sheltered Accommodation,,Services
+321060,Social Community Care Supplies & Services - Adult,Temporary Accommodation - Unsupported,,Services
+329899,Social Community Care Supplies & Services - Adult,Not Elsewhere Classified,,Services
+321100,Social Community Care Supplies & Services - Children,,,Services
+401001,Social Community Care Supplies & Services - Children,Community Based Services,,Services
+321112,Social Community Care Supplies & Services - Children,Community Based Services,After School Care,Services
+401002,Social Community Care Supplies & Services - Children,Community Based Services,Alternative Education,Services
+321113,Social Community Care Supplies & Services - Children,Community Based Services,Baby Sitting Services,Services
+321114,Social Community Care Supplies & Services - Children,Community Based Services,Black & Minority Ethnic Services,Services
+321115,Social Community Care Supplies & Services - Children,Community Based Services,Childcare Services,Services
+401003,Social Community Care Supplies & Services - Children,Community Based Services,Childrens Centres,Services
+401004,Social Community Care Supplies & Services - Children,Community Based Services,Creche Buildings,"Services, lease / hire of premises"
+401005,Social Community Care Supplies & Services - Children,Community Based Services,Creche Staffing,Services
+321116,Social Community Care Supplies & Services - Children,Community Based Services,Creches,Services
+401006,Social Community Care Supplies & Services - Children,Community Based Services,Schools & Academies,Services
+401007,Social Community Care Supplies & Services - Children,Community Based Services,Voluntary Sector Support Services e.g. Activities,Services
+401099,Social Community Care Supplies & Services - Children,Community Based Services,Not Elsewhere Classified,Services
+321200,Social Community Care Supplies & Services - Children,Disabled Children,,Services
+321210,Social Community Care Supplies & Services - Children,Disabled Children,Care Services,Services
+321211,Social Community Care Supplies & Services - Children,Disabled Children,Day Services,Services
+321212,Social Community Care Supplies & Services - Children,Disabled Children,Leisure Early Years,Services
+321213,Social Community Care Supplies & Services - Children,Disabled Children,Play Services,Services
+321214,Social Community Care Supplies & Services - Children,Disabled Children,Residential Care,Services
+401101,Social Community Care Supplies & Services - Children,Disabled Children,Short Day Breaks,Services
+401102,Social Community Care Supplies & Services - Children,Disabled Children,Short Overnight Breaks,Services
+321215,Social Community Care Supplies & Services - Children,Disabled Children,Volunteering Youth Support Services,Services
+401199,Social Community Care Supplies & Services - Children,Disabled Children,Not Elsewhere Classified,Services
+401201,Social Community Care Supplies & Services - Children,Early Intervention Health Services,,Services
+322002,Social Community Care Supplies & Services - Children,Early Intervention Health Services,Advice & Counselling,Services
+401202,Social Community Care Supplies & Services - Children,Early Intervention Health Services,Family Based Services,Services
+401203,Social Community Care Supplies & Services - Children,Early Intervention Health Services,Family Support,Services
+401204,Social Community Care Supplies & Services - Children,Early Intervention Health Services,Health Visiting,Services
+401205,Social Community Care Supplies & Services - Children,Early Intervention Health Services,Midwifery,Services
+401206,Social Community Care Supplies & Services - Children,Early Intervention Health Services,Nutrition,Services
+401207,Social Community Care Supplies & Services - Children,Early Intervention Health Services,Parenting,Services
+401208,Social Community Care Supplies & Services - Children,Early Intervention Health Services,Prevention Services,Services
+401209,Social Community Care Supplies & Services - Children,Early Intervention Health Services,School Nursing,Services
+401210,Social Community Care Supplies & Services - Children,Early Intervention Health Services,Supporting People,Services
+401211,Social Community Care Supplies & Services - Children,Early Intervention Health Services,Teenage Parents,Services
+401299,Social Community Care Supplies & Services - Children,Early Intervention Health Services,Not Elsewhere Classified,Services
+401301,Social Community Care Supplies & Services - Children,Residential Services,,Services
+401302,Social Community Care Supplies & Services - Children,Residential Services,Day Care,Services
+401303,Social Community Care Supplies & Services - Children,Residential Services,Foster Care,Services
+321117,Social Community Care Supplies & Services - Children,Residential Services,Residential Care,Services
+401304,Social Community Care Supplies & Services - Children,Residential Services,Schools & Academies,Services
+401305,Social Community Care Supplies & Services - Children,Residential Services,Semi-Independent Living & Leaving Care,Services
+401306,Social Community Care Supplies & Services - Children,Residential Services,Special Educational Needs Placements,Services
+401399,Social Community Care Supplies & Services - Children,Residential Services,Not Elsewhere Classified,Services
+401700,Social Community Care Supplies & Services - Children,Respite,,Services
+401710,Social Community Care Supplies & Services - Children,Respite,Residential,Services
+401720,Social Community Care Supplies & Services - Children,Respite,Short break,Services
+401730,Social Community Care Supplies & Services - Children,Respite,Community,Services
+401799,Social Community Care Supplies & Services - Children,Respite,Not Elsewhere Classified,Services
+401401,Social Community Care Supplies & Services - Children,Specialist Needs,,Services
+321110,Social Community Care Supplies & Services - Children,Specialist Needs,Adolescent Mental Health Services,Services
+321111,Social Community Care Supplies & Services - Children,Specialist Needs,Adoption Services,Services
+401402,Social Community Care Supplies & Services - Children,Specialist Needs,Carer Assessments,Services
+401403,Social Community Care Supplies & Services - Children,Specialist Needs,Community & Mental Health Service,Services
+401404,Social Community Care Supplies & Services - Children,Specialist Needs,Fostering Service,Services
+401405,Social Community Care Supplies & Services - Children,Specialist Needs,Independent Reviewing Officer Service,Services
+401406,Social Community Care Supplies & Services - Children,Specialist Needs,Leaving Care Services,Services
+401407,Social Community Care Supplies & Services - Children,Specialist Needs,Parent & Child Assessments,Services
+401408,Social Community Care Supplies & Services - Children,Specialist Needs,Social Work Practice & Training,Services
+321118,Social Community Care Supplies & Services - Children,Specialist Needs,Specialist Domestic Violence,Services
+401409,Social Community Care Supplies & Services - Children,Specialist Needs,Speech & Language,Services
+401410,Social Community Care Supplies & Services - Children,Specialist Needs,Substance Misuse,Services
+401411,Social Community Care Supplies & Services - Children,Specialist Needs,Supervised Contacts,Services
+401412,Social Community Care Supplies & Services - Children,Specialist Needs,Troubled Families,Services
+401413,Social Community Care Supplies & Services - Children,Specialist Needs,Young Carers,Services
+401414,Social Community Care Supplies & Services - Children,Specialist Needs,Young Runaways,Services
+401499,Social Community Care Supplies & Services - Children,Specialist Needs,Not Elsewhere Classified,Services
+401501,Social Community Care Supplies & Services - Children,Support Services & Advocacy Services,,Services
+401502,Social Community Care Supplies & Services - Children,Support Services & Advocacy Services,Advocacy,Services
+401503,Social Community Care Supplies & Services - Children,Support Services & Advocacy Services,Translation,Services
+401504,Social Community Care Supplies & Services - Children,Support Services & Advocacy Services,Transport Services,Services
+401599,Social Community Care Supplies & Services - Children,Support Services & Advocacy Services,Not Elsewhere Classified,Services
+401601,Social Community Care Supplies & Services - Children,Youth Services,,Services
+401602,Social Community Care Supplies & Services - Children,Youth Services,Career Advice Services,Services
+401603,Social Community Care Supplies & Services - Children,Youth Services,Transition Between Children & Adults,Services
+321119,Social Community Care Supplies & Services - Children,Youth Services,Youth Offending Services,Services
+401605,Social Community Care Supplies & Services - Children,Youth Services,Not Elsewhere Classified,Services
+409999,Social Community Care Supplies & Services - Children,Not Elsewhere Classified,,Services
+410000,Social Community Care Supplies & Services,,,Products / services
+321300,Social Community Care Supplies & Services,Supplies,,Products
+321310,Social Community Care Supplies & Services,Supplies,Consumables,"Products, includes incontinence products etc."
+321312,Social Community Care Supplies & Services,Supplies,Fitted Equipment,"Products, supply & fit.  Stair lifts, hoists etc."
+321313,Social Community Care Supplies & Services,Supplies,Non Fitted Equipment,"Products, mobility aids, dressing aids etc."
+321399,Social Community Care Supplies & Services,Supplies,Not Elsewhere Classified,Products
+419999,Social Community Care Supplies & Services,Not Elsewhere Classified,,Products / services
+330000,Sports & Playground Equipment & Maintenance,,,Products / services
+331000,Sports & Playground Equipment & Maintenance,Playground Equipment,,Products
+331100,Sports & Playground Equipment & Maintenance,Playground Equipment Repair & Maintenance,,Services
+331300,Sports & Playground Equipment & Maintenance,Sports Equipment,,Products
+331200,Sports & Playground Equipment & Maintenance,Sports Equipment Repair & Maintenance,,Services
+331400,Sports & Playground Equipment & Maintenance,Sports & Playground & Pool Repair & Maintenance,,"Services, maintenance of sports grounds, playgrounds and pools, not equipment."
+339999,Sports & Playground Equipment & Maintenance,Not Elsewhere Classified,,Products / services
+340000,Stationery,,,Products
+341000,Stationery,Paper Products,,Products
+341010,Stationery,Paper Products,Books & Pads,"Products, not including diaries"
+341011,Stationery,Paper Products,Envelopes,Products
+341012,Stationery,Paper Products,Labels,Products
+341013,Stationery,Paper Products,Paper & Board,Products
+341099,Stationery,Paper Products,Not Elsewhere Classified,Products
+341100,Stationery,Sundries,,Products
+341110,Stationery,Sundries,Desktop Equipment,Products
+341111,Stationery,Sundries,Diaries & Planners,"Products, calendars, wall charts etc."
+341112,Stationery,Sundries,Fastening & Binding,Products
+341113,Stationery,Sundries,Filing & Storage,Products
+341114,Stationery,Sundries,Writing & Drawing,"Products, including consumables & correction products etc."
+341199,Stationery,Sundries,Not Elsewhere Classified,Products
+349999,Stationery,Not Elsewhere Classified,,Products
+350000,Street & Traffic Management,,,Products / services
+350100,Street & Traffic Management,Closed-Circuit Television,,Products / services
+350200,Street & Traffic Management,Parking,,Products / services
+351000,Street & Traffic Management,Parking,Car Parks,Services
+351100,Street & Traffic Management,Parking,Equipment,"Products or supply & fit, includes meters, machines & lights, etc"
+351200,Street & Traffic Management,Parking,Fines Collection,Services
+351500,Street & Traffic Management,Parking,Wardens,Services
+350299,Street & Traffic Management,Parking,Not Elsewhere Classified,Products / services
+151612,Street & Traffic Management,Planning,,Services
+351400,Street & Traffic Management,Traffic Control,,Products or supply & fit
+359999,Street & Traffic Management,Not Elsewhere Classified,,Products / services
+370000,Utilities,,,Products / services
+371000,Utilities,Electricity,,Services
+371010,Utilities,Electricity,Street Lighting,Services
+371099,Utilities,Electricity,Not Elsewhere Classified,Services
+371100,Utilities,Gas,,Services
+371200,Utilities,Heating Oil,,Services
+371500,Utilities,Sewerage,,Services
+371400,Utilities,Solid Fuels,,Products
+371300,Utilities,Water,,Services
+379999,Utilities,Not Elsewhere Classified,,Products / services
+380000,Vehicle Management,,,Products
+381000,Vehicle Management,Commercial,,"Products, includes cars & vans, not buses"
+381700,Vehicle Management,Cycles,,Products
+381711,Vehicle Management,Cycles,Equipment,Products
+381712,Vehicle Management,Cycles,Purchase,Products
+381799,Vehicle Management,Cycles,Not Elsewhere Classified,Products
+381100,Vehicle Management,Fuel,,Products
+381205,Vehicle Management,Heavy Construction Equipment,,"Products, includes vehicles"
+381204,Vehicle Management,Heavy Construction Equipment,Hire,"Products, includes vehicles"
+381200,Vehicle Management,Heavy Construction Equipment,Leasing,"Products, includes vehicles"
+381206,Vehicle Management,Heavy Construction Equipment,Purchase,"Products, includes vehicles"
+381299,Vehicle Management,Heavy Construction Equipment,Not Elsewhere Classified,Products
+381210,Vehicle Management,Hire,,"Services, not buses"
+381300,Vehicle Management,Industrial,,"Products, includes refuse vehicles, fork lift trucks, etc."
+381600,Vehicle Management,Leasing,,"Services, not buses"
+381500,Vehicle Management,Parts,,"Products, includes tyres, exhausts products, etc. not buses"
+381400,Vehicle Management,Repair & Maintenance,,"Services, not buses"
+381713,Vehicle Management,Signage & Livery,,"Services, not buses"
+381800,Vehicle Management,Tools & Equipment,,Products
+381900,Vehicle Management,Vehicle Recovery,,"Services, not buses"
+389999,Vehicle Management,Not Elsewhere Classified,,Products / services
+390000,"Works - Construction, Repair & Maintenance",,,Services
+391000,"Works - Construction, Repair & Maintenance",Architect,,Services
+391100,"Works - Construction, Repair & Maintenance",Buildings,,Services
+391110,"Works - Construction, Repair & Maintenance",Buildings,Construction,Services
+181000,"Works - Construction, Repair & Maintenance",Buildings,Demolition & Asbestos Removal,Services
+391111,"Works - Construction, Repair & Maintenance",Buildings,Repair & Maintenance,Services
+391114,"Works - Construction, Repair & Maintenance",Buildings,Surveys,Services
+391199,"Works - Construction, Repair & Maintenance",Buildings,Not Elsewhere Classified,Services
+391500,"Works - Construction, Repair & Maintenance",Consultancy,,Services
+391200,"Works - Construction, Repair & Maintenance",Engineering,,Services
+391600,"Works - Construction, Repair & Maintenance",Manufacturing Services,,Services
+391610,"Works - Construction, Repair & Maintenance",Manufacturing Services,Heavy Industry,Services
+391620,"Works - Construction, Repair & Maintenance",Manufacturing Services,Small Scale Fabrication,"Services, including 3D printing"
+391699,"Works - Construction, Repair & Maintenance",Manufacturing Services,Not Elsewhere Classified,Services
+391300,"Works - Construction, Repair & Maintenance",Open Spaces,,"Services, includes grounds, etc."
+391310,"Works - Construction, Repair & Maintenance",Open Spaces,Construction,"Services, includes grounds, etc."
+391311,"Works - Construction, Repair & Maintenance",Open Spaces,Repair & Maintenance,"Services, includes grounds, etc."
+391314,"Works - Construction, Repair & Maintenance",Open Spaces,Surveys,"Services, includes grounds, etc."
+391399,"Works - Construction, Repair & Maintenance",Open Spaces,Not Elsewhere Classified,"Services, includes grounds, etc."
+391700,"Works - Construction, Repair & Maintenance",Raw Materials,,"Products / services, including mining, forestry etc."
+391400,"Works - Construction, Repair & Maintenance",Roads,,Services
+391410,"Works - Construction, Repair & Maintenance",Roads,Construction,Services
+391420,"Works - Construction, Repair & Maintenance",Roads,Design,Services
+391430,"Works - Construction, Repair & Maintenance",Roads,Drainage,Services
+391440,"Works - Construction, Repair & Maintenance",Roads,Emergency,Services
+391450,"Works - Construction, Repair & Maintenance",Roads,Guard Rails & Signs,Services
+391460,"Works - Construction, Repair & Maintenance",Roads,Proprietary Surfacing,"Services, includes surface dressing, anti-skid, etc."
+391465,"Works - Construction, Repair & Maintenance",Roads,Reconstruction & Resurfacing,Services
+391411,"Works - Construction, Repair & Maintenance",Roads,Repair & Maintenance,Services
+391470,"Works - Construction, Repair & Maintenance",Roads,Road Markings,Services
+231810,"Works - Construction, Repair & Maintenance",Roads,Surveys,Services
+391499,"Works - Construction, Repair & Maintenance",Roads,Not Elsewhere Classified,Services
+399999,"Works - Construction, Repair & Maintenance",Not Elsewhere Classified,,Services
