@@ -22,8 +22,9 @@ Usage
 """
 
 import argparse
-import os
+import os, sys
 import pandas as pd
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "shared"))
 
 CONTEXT_FIELDS = ["service_area", "expense_type", "department", "supplier_category"]
 # order = priority in the descriptor (service_area first: best "what is it" signal)
@@ -91,7 +92,7 @@ def main():
         if args.include_col not in rv.columns:
             raise SystemExit(f"'{args.include_col}' not in {args.review}")
         flag = rv[args.include_col].fillna("").astype(str).str.strip().str.upper()
-        keep = set(rv.loc[flag == "Y", "supplier_clean"])
+        keep = set(rv.loc[flag == "Y", "supplier_clean"]) # type: ignore
         before = df["supplier_clean"].nunique()
         df = df[df["supplier_clean"].isin(keep)]
         print(f"Filtered to include_in_batch=Y: {len(keep):,} flagged; "

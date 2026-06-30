@@ -77,6 +77,8 @@ import numpy as np
 import pandas as pd
 from rapidfuzz import fuzz, process
 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "shared"))
+
 # Identical cleaning to production — import, do not re-implement.
 from bt_stp1b_ch_match import normalise, initials_sig, block_key, load_ch, is_active
 from ch_token_index import TokenIndex

@@ -32,12 +32,12 @@ Usage
 """
 
 import argparse
-import os
-import sys
-
 import numpy as np
 import pandas as pd
 
+# ── Requires the pyrightconfig.json in the vs code root for config and utils to import 
+import os, sys
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "shared"))
 from config import DEFAULT_SPEND_FILE, GROUP_COLUMNS, TAXONOMY_BASE_FILE
 from utils import ScriptTimer, setup_logging
 
