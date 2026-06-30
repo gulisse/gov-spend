@@ -47,9 +47,10 @@ from datetime import datetime
 import pandas as pd
 import pyarrow as pa
 import pyarrow.parquet as pq
-from rapidfuzz import fuzz, process
+from rapidfuzz import fuzz, process # type: ignore
  
- 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "shared"))
+
 # ──────────────────────────────────────────────
 # CH columns we need (header whitespace is stripped on read)
 # ──────────────────────────────────────────────
@@ -233,7 +234,7 @@ def build_indexes(ch: pd.DataFrame):
         if len(long):
             uniq = pd.unique(long.values)
             nmap = {u: normalise(u)[0] for u in uniq}
-            an = long.map(nmap)
+            an = long.map(nmap) # type: ignore
             pos = long.index.get_level_values(0).to_numpy()
             cur = ch["norm_name"].to_numpy()
             alias = pd.DataFrame({"norm": an.to_numpy(), "pos": pos})

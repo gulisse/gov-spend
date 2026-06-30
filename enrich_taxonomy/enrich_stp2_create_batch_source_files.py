@@ -28,6 +28,8 @@ import re
 import sys
 
 import pandas as pd
+# ── Requires the pyrightconfig.json in the vs code root for config and utils to import 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "shared"))
 
 from config import (
     BATCH_OUTPUT_DIR,

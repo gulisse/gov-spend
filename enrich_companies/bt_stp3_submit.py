@@ -67,6 +67,8 @@ from google import genai
 from google.genai import types
 from google.cloud import storage as gcs
 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "shared"))
+
 # Shared environment/config only (project, bucket, model, poll cadence) — NOT
 # any enrich-pipeline logic. The bt flow is otherwise self-contained.
 from config import (

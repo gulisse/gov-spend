@@ -27,6 +27,8 @@ import glob
 import json
 import os
 import sys
+# ── Requires the pyrightconfig.json in the vs code root for config and utils to import 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "shared"))
 
 import pandas as pd
 
@@ -204,7 +206,7 @@ def main():
                 if nec is not None:
                     logger.info(
                         f"  {results_df.loc[idx, 'rq_id']}: "
-                        f"{int(bad_code)} → {int(nec)} (NEC fallback)"
+                        f"{int(bad_code)} → {int(nec)} (NEC fallback)" # type: ignore
                     )
                     results_df.loc[idx, "taxonomy_code"] = nec
                     results_df.loc[idx, "resolution_status"] = "NEC_FALLBACK"
@@ -212,7 +214,7 @@ def main():
                 else:
                     logger.warning(
                         f"  {results_df.loc[idx, 'rq_id']}: "
-                        f"{int(bad_code)} — no NEC fallback found"
+                        f"{int(bad_code)} — no NEC fallback found" # type: ignore
                     )
             logger.info(f"NEC fallback: remapped {remapped:,} / {invalid_count:,}")
 

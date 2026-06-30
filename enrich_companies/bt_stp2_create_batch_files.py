@@ -46,8 +46,9 @@ import math
 import os
 import sys
 from collections import OrderedDict
-
 import pandas as pd
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "shared"))
 
 # Reuse model/generation + batch settings from the existing pipeline config.
 from config import (

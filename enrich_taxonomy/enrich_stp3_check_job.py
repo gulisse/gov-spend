@@ -22,6 +22,8 @@ import argparse
 import json
 import os
 import sys
+# ── Requires the pyrightconfig.json in the vs code root for config and utils to import 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "shared"))
 
 from google import genai
 from google.cloud import storage as gcs

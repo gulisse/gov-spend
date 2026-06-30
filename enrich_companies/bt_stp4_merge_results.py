@@ -40,6 +40,8 @@ import sys
 
 import pandas as pd
 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "shared"))
+
 # Maps the deterministic keyword labels (classify_suppliers.SECTOR) onto the
 # locked 85-sub-type vocabulary, for trusted rows that bypass the model.
 BASELINE_TO_SUBTYPE = {
