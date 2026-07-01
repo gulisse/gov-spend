@@ -78,8 +78,14 @@ SUFFIXES = {
     "ltd", "limited", "plc", "llp", "llc", "lp", "cic", "cio", "co", "company",
     "group", "holdings", "inc", "incorporated", "ug", "gmbh",
 }
-CONNECTORS = {"and"}                       # '&' is mapped to space first
+CONNECTORS = {"and", "of"}                 # '&' is mapped to space first
+LEADING_ARTICLES = {"the", "a", "an"}      # stripped only when next token is multi-letter
 QUOTE_RE = re.compile(r"[\"'`´\u201c\u201d\u2018\u2019]")
+# TLDs stripped to a space (longest first so co.uk beats uk); require a
+# trailing boundary so ".com" is not torn out of "commercial". Applied to BOTH
+# supplier and CH names inside normalise() so the comparison sees a bare name.
+TLD_RE = re.compile(r"\.(?:co\.uk|org\.uk|ac\.uk|gov\.uk|com|net|org|io|uk)(?=$|[\s,./])", re.I)
+INTRAWORD_DOT_RE = re.compile(r"\.(?=\w)")   # whats.on -> whatson,  c.i.c. -> cic
 NONALNUM_RE = re.compile(r"[^a-z0-9]+")
  
  
@@ -90,9 +96,13 @@ def normalise(name: str):
     s = name.lower()
     s = QUOTE_RE.sub("", s)               # strip quotes
     s = s.replace("&", " ")               # ampersand -> connector slot
+    s = TLD_RE.sub(" ", s)                # acme.co.uk / acme.com -> "acme "
+    s = INTRAWORD_DOT_RE.sub("", s)       # whats.on -> whatson,  c.i.c. -> cic
     s = NONALNUM_RE.sub(" ", s)           # punctuation/periods -> space
     toks = [t for t in s.split() if t and t not in CONNECTORS and t not in SUFFIXES]
-    if toks and toks[0] == "the":
+    # strip a leading article, but only when the next token is multi-letter,
+    # so real initialisms (A B C -> abc) keep their leading letter
+    while len(toks) > 1 and toks[0] in LEADING_ARTICLES and len(toks[1]) > 1:
         toks = toks[1:]
     # collapse runs of single-letter tokens:  f m conway -> fm conway
     out, buf = [], []
@@ -105,6 +115,9 @@ def normalise(name: str):
             out.append(t)
     if buf:
         out.append("".join(buf))
+    # re-filter: single-letter collapse can reassemble a legal suffix
+    # (e.g. C.I.C. → c,i,c → "cic") that the pre-collapse filter missed
+    out = [t for t in out if t not in SUFFIXES]
     return " ".join(out), out
  
  

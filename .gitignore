@@ -37,7 +37,12 @@ Normalized_spend.csv
 Companies_House_companies_list.csv
 total_spend_base.csv
 *.parquet
+*.npz
 ch_slim.parquet
+
+# ── analysis files 
+analysis.txt
+analysis2.txt
 
 # ── IDE / OS ──
 .vscode/
